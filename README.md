@@ -8,7 +8,7 @@
 * 💼 Future goals:  Internship • Research • Travel and thrive
 
 ---
-[![Chandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandini-narayana&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Chandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandini-narayana&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 💻 Tech Stack:
