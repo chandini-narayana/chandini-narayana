@@ -2,7 +2,7 @@
 
 ### About Me
 
-* 🎓 2nd Year B.Tech in Computer Science (AI & ML) – Bangalore
+* 🎓 2nd Year B.Tech in Computer Science (AI & ML) 
 * 🧠 Passionate about **AI**, Creative tech, Fashion tech & Solving real-world problems
 * 🏋️‍♀️ Currently working to build my dream lifestyle
 * 💼 Future goals:  Internship • Research • Travel and thrive
